@@ -35,7 +35,7 @@ social_media:
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  linkedin: Luhan Cheng
+  linkedin: 'luhan-cheng-ab14b0139'
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -47,7 +47,7 @@ social_media:
   # youtube: your_username
 
 topics:
+  - name: high performance computing
+    web_url: https://insidehpc.com/hpc-basic-training/what-is-hpc/
   - name: Machine Learning
     web_url: https://github.com/topics/machine-learning
-    image_ur: https://www.smartdatacollective.com/wp-content/uploads/2018/11/Machine-learning-1024x682.jpg
-
