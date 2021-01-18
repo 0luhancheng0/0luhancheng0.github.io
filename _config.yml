@@ -26,6 +26,13 @@ projects:
     archived: false
     forks: true
     projects:
+      - hpccm_containers
+      - LZSS
+      - parallel_mandelbrot
+      - boyer_moore
+      - ParallelWSN
+      - oh_hell
+      - observable
     # - repo-name
 
 social_media:
